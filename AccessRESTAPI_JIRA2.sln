@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessRESTAPI_JIRA2", "AccessRESTAPI_JIRA2.csproj", "{E44FFECA-1A11-46B7-A7EE-5F3DB56644D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E44FFECA-1A11-46B7-A7EE-5F3DB56644D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44FFECA-1A11-46B7-A7EE-5F3DB56644D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44FFECA-1A11-46B7-A7EE-5F3DB56644D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44FFECA-1A11-46B7-A7EE-5F3DB56644D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3C12B35-0C82-422A-A90B-27554C45A36C}
+	EndGlobalSection
+EndGlobal
